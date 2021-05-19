@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Geronimo, or a doofus (answer: I don't care).
 Use the left arrow to go back!
